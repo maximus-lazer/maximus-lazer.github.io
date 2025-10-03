@@ -18,11 +18,11 @@
   },
   "interests": [
     { "name": "Robotics" },
+    { "name": "Programming" },
     { "name": "FRC Mentoring (190)" },
     { "name": "3D Printing" },
     { "name": "3D Design" },
-    { "name": "Manufacturing" },
-    { "name": "" }
+    { "name": "Manufacturing" }
   ],
   "skills": [
     {
